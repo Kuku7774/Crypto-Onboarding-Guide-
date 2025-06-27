@@ -10,7 +10,8 @@ Created based on real onboarding done in projects like Dmail, Bitfinity & GunSta
 
 🛠️ [How to Set Up a Wallet (Step-by-Step)](Crypto-Onboarding-Guide/how-to-setup-wallet.md)
 - 🔁 Bridging & L2 Flow (safety tips)
-- 💬 Welcome Message Templates (Telegram + Discord)
+  
+💬 [Telegram + Discord Welcome & Safety Guide](Crypto-Onboarding-Guide/telegram-discord-intro.md)
 - 📍 Onboarding Message Formats (for mods/community leads)
 - 
 🧰 [Web3 Tools for Beginners](Crypto-Onboarding-Guide/tools-for-beginners.md)
