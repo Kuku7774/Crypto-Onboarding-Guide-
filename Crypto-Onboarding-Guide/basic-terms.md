@@ -10,7 +10,7 @@ Your Web3 identity. It’s like your Gmail — but for crypto.
 Used to store your coins, NFTs, and sign in to dApps.  
 🛠️ Example: MetaMask, Phantom, Trust Wallet
 
----
+--
 
 ### ⛽ Gas Fees
 
