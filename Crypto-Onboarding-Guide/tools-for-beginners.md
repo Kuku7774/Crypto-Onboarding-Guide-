@@ -2,7 +2,7 @@
 
 Stepping into crypto can feel overwhelming — but these simple tools can make your journey smoother, safer, and smarter.
 
----
+--
 
 ## 🔗 [Chainlist.org](https://chainlist.org)
 
