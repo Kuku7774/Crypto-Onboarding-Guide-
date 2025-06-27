@@ -6,7 +6,7 @@ Created based on real onboarding done in projects like Dmail, Bitfinity & GunSta
 
 ### 📂 What’s Inside
 
-- 🧾 Basic Crypto Terms (simple explanations)
+- 📘 [Basic Terms (Explained Simply)](Crypto-Onboarding-Guide/basic-terms.md)
 - 🛠️ Wallet Setup Guide (MetaMask/Phantom)
 - 🔁 Bridging & L2 Flow (safety tips)
 - 💬 Welcome Message Templates (Telegram + Discord)
